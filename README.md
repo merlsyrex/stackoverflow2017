@@ -5,3 +5,6 @@ This is a sample readme file for our Stack Overflow Developer Repo. We are learn
 - This is meant to be an example
 - Markdown is really fast
 - Pretty cool
+
+## Link Example
+[Stack Overflow Home Page](https://stackoverflow.com/)
